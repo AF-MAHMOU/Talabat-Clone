@@ -1,16 +1,27 @@
-# talabatpro
+Talabat Clone Application
 
-A new Flutter project.
+Overview
 
-## Getting Started
+This project is a comprehensive mobile application clone of Talabat, focusing on providing an intuitive and efficient user experience for ordering food and groceries. Built with Flutter, this application emphasizes clean UI/UX design, clear pricing structures, streamlined navigation, and segmented content for enhanced usability.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+Food and Grocery Ordering: Easily browse and order from a variety of restaurants and grocery stores.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clear Pricing Display: Transparent pricing with highlighted discounts and original prices clearly indicated.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Content Segmentation: Separate, intuitive tabs for groceries and restaurants to improve navigation.
+
+Consistent Navigation: Fixed bottom navigation bar ensures easy access to essential features like account settings, cart, and order tracking.
+
+Multilingual Support: Designed with full RTL (right-to-left) support for Arabic language users.
+
+Promotional Offers: Dedicated promotions section showcasing current deals and discounts.
+
+Technologies Used
+
+Flutter: Cross-platform mobile development framework.
+
+Firebase: Real-time database and authentication.
+
+Figma: UI/UX prototyping and interactive mockups.
