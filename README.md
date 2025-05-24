@@ -9,8 +9,6 @@ This project is a comprehensive mobile application clone of Talabat, focusing on
 - **Food and Grocery Ordering**: Easily browse and order from a variety of restaurants and grocery stores.
 - **Clear Pricing Display**: Transparent pricing with highlighted discounts and original prices clearly indicated.
 - **Content Segmentation**: Separate, intuitive tabs for groceries and restaurants to improve navigation.
-- **Consistent Navigation**: Fixed bottom navigation bar ensures easy access to essential features like account settings, cart, and order tracking.
-- **Multilingual Support**: Designed with full RTL (right-to-left) support for Arabic language users.
 - **Promotional Offers**: Dedicated promotions section showcasing current deals and discounts.
 
 ## Technologies Used
